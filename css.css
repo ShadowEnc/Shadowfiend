@@ -1,0 +1,22 @@
+body{
+background-color: #0b0b0d;
+}
+
+.main{
+  text-align: right;
+  padding: 50px;
+}
+h1{
+  font-size: 100pt;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight:200;
+  color: #ACACAC;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 900px;
+}
+.namehero{
+  text-align: center;
+
+}
